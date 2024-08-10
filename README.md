@@ -1,4 +1,4 @@
-# Audio-SpeechProcessing
+# Audio and Speech Processing Projects
 This repository contains the subprojects done in the class Audio and Speech Processing. The work has been done in collaboration with Eudald Brils
 
 ## Voice Activity Detector
@@ -8,3 +8,21 @@ Given a voice signal, the goal is to determine at which moments there is actuall
 | -------------- | -------------------------------------------------------------------- |
 | **Project Report**   | [Link to Project Report](https://github.com/yourusername/your-repo/tree/main/module1) |
 | **Code**   | [Link to Code](https://github.com/yourusername/your-repo/tree/main/module2) |
+
+## Pitch Detection
+The goal is to design a pitch detection system based on autocorrelation. The autocorrelation of a periodic signal is itself periodic with the same period as the signal. Since every signal presents the maximum autocorrelation at the origin, by detecting the position of the second maximum, we are able to determine this period.
+
+| Feature/Module | Link                                                                 |
+| -------------- | -------------------------------------------------------------------- |
+| **Project Report**   | [Link to Project Report](https://github.com/yourusername/your-repo/tree/main/module1) |
+| **Code**   | [Link to Code](https://github.com/yourusername/your-repo/tree/main/module2) |
+
+## Speaker Classification and Verification
+The goal is to design a pitch detection system based on autocorrelation. The autocorrelation of a periodic signal is itself periodic with the same period as the signal. Since every signal presents the maximum autocorrelation at the origin, by detecting the position of the second maximum, we are able to determine this period.
+
+| Feature/Module | Link                                                                 |
+| -------------- | -------------------------------------------------------------------- |
+| **Project Report**   | [Link to Project Report](https://github.com/yourusername/your-repo/tree/main/module1) |
+| **Code**   | [Link to Code](https://github.com/yourusername/your-repo/tree/main/module2) |
+
+## Polyphonic Musical Synthesis
