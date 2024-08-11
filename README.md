@@ -18,7 +18,7 @@ The goal is to design a pitch detection system based on autocorrelation. The aut
 | **Code**   | [Link to Code](https://github.com/yourusername/your-repo/tree/main/module2) |
 
 ## Speaker Recognition and Verification
-The goal is to design a pitch detection system based on autocorrelation. The autocorrelation of a periodic signal is itself periodic with the same period as the signal. Since every signal presents the maximum autocorrelation at the origin, by detecting the position of the second maximum, we are able to determine this period.
+The objective of this project is to build a speaker recognition system and a verification recognition system. Linear Prediction Coefficients (LPC), Linear Prediction Cepstral Coefficients (LPCC) and Mel-frequency Cepstral Coefficients (MFCC) are used for feature extraction. We make a comparison of performance when using the different coefficients. Finally, a Gaussian Mixture Model is used for the speaker recognition system and for the speaker verification system.
 
 | Feature/Module | Link                                                                 |
 | -------------- | -------------------------------------------------------------------- |
@@ -26,3 +26,8 @@ The goal is to design a pitch detection system based on autocorrelation. The aut
 | **Code**   | [Link to Code](https://github.com/yourusername/your-repo/tree/main/module2) |
 
 ## Polyphonic Musical Synthesis
+This project focuses on creating a simple polyphonic musical synthesis system. We start studying MIDI messages in a simplified form and we develop a polyphonic synthesizer capable of managing multiple instruments and effects. We will implement basic instruments, such as an InstrumentDumb that produces sinusoidal sounds using a table with an ADSR envelope, and add sound effects like tremolo and vibrato. We also implement FM synthesis, which modulates the frequency of a base signal to produce more complex sounds.
+| Feature/Module | Link                                                                 |
+| -------------- | -------------------------------------------------------------------- |
+| **Project Report**   | [Link to Project Report](https://github.com/yourusername/your-repo/tree/main/module1) |
+| **Code**   | [Link to Code](https://github.com/yourusername/your-repo/tree/main/module2) |
