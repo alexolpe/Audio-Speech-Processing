@@ -6,7 +6,7 @@ Given a voice signal, the goal is to determine at which moments there is actuall
 
 | Feature/Module | Link                                                                 |
 | -------------- | -------------------------------------------------------------------- |
-| **Project Report**   | [Link to Project Report](https://github.com/alexolpe/P2/blob/Brils-Olive/README.md) |
+| **Project Report**   | [Link to Project Report](https://github.com/alexolpe/P2/blob/olive_brils/README.md) |
 | **Code**   | [Link to Code](https://github.com/alexolpe/P2/tree/olive_brils) |
 
 ## Pitch Detection
