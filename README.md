@@ -22,7 +22,7 @@ The objective of this project is to build a speaker recognition system and a ver
 
 | Feature/Module | Link                                                                 |
 | -------------- | -------------------------------------------------------------------- |
-| **Project Report**   | [Link to Project Report](https://drive.google.com/drive/u/0/search?q=p4) |
+| **Project Report**   | [Link to Project Report](https://drive.google.com/file/d/1Mkdv9k8di4s56ceB0AsNwxUlkdiF6uRA/view?usp=drive_link) |
 | **Code**   | [Link to Code](https://github.com/alexolpe/P4/tree/brils-olive) |
 
 ## Polyphonic Musical Synthesis
